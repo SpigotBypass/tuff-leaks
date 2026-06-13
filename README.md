@@ -7,8 +7,6 @@
 
 👉 https://tuff-leaks.pl
 
----
-
 ## Jak dostać klucz?
 
 Wejdź na Discord: **https://dc.gg/tuffc2**  
@@ -16,9 +14,6 @@ Kanał #leaks – weryfikacja zajmuje 20 sekund.
 
 Po kluczu masz dostęp do:
 - wyszukiwarki IP (finderka)
-- DDoSiarki
-
----
 
 ## 20 osób na serwerze = FREE PLAN DDoSiarki dla wszystkich
 
